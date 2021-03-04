@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<p align="center">An ReactJS application for barber appointment and scheduling.</p>
+<p align="center">An ReactJS application</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
