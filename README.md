@@ -1,9 +1,7 @@
 <h1 align="center">
-<br>
-  <img src="src/assets/logo.svg" alt="GoRestaurant">
-<br>
-<br>
-GoRestaurant Web
+  <br>
+    GoRestaurant Web
+  <br>
 </h1>
 
 <p align="center">An ReactJS application for barber appointment and scheduling.</p>
@@ -19,7 +17,7 @@ GoRestaurant Web
 
 <hr />
 
-## Technologies
+## 🚀 Technologies
 
 This app features all the latest tools and practices in web development!
 
@@ -35,7 +33,7 @@ This app features all the latest tools and practices in web development!
 - [Prettier](https://prettier.io/)
 - [EditorConfig](https://editorconfig.org/)
 
-## Getting started
+## 💻  Getting started
 
 _Before you run this application you need to make sure the `yarn json-server server.json -p 3333` is running!_.
 
@@ -43,3 +41,11 @@ _Before you run this application you need to make sure the `yarn json-server ser
 2. Move to the appropriate directory: `cd gorestaurant-web`.<br />
 3. Run `yarn` to install dependencies.<br />
 4. Run `yarn start` to see the example app at `http://localhost:3000`.
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Made with ♥ by Gustavo Nobrega
